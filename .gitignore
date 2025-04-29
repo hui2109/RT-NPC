@@ -1,6 +1,6 @@
 .idea/
 test.ipynb
-test.py
+04_生成掩膜.py
 assets/images
 
 # Byte-compiled / optimized / DLL files

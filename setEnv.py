@@ -10,6 +10,7 @@ cmd = [
     "numpy",
     "jupyterlab",
     "pyradiomics",
+    "pyqt6",
 ]
 
 # 执行命令，遇到非零退出码会抛出 CalledProcessError
